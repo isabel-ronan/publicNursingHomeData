@@ -5,7 +5,6 @@ This repository houses data analysis scripts regarding Irish nursing home data p
 ## Findings 
 
 ### Distances From Hospitals
-
 - The majority of Irish nursing homes are at 'dangerous' distances from hospital; these distance findings are inspired by research undertaken by [Nicholl et al.](https://doi.org/10.1136%2Femj.2007.047654) regarding mortality rates and distances from hospitals. 
 - Palliative care interventions focusing on quality as opposed to quantity of life may be beneficial in homes whereby distressing hospital transfers have poor outcomes.
 
