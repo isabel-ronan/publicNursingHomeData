@@ -3,6 +3,7 @@
 This repository houses data analysis scripts regarding Irish nursing home data publicly available online. Processing is done to generation visualisations based on nursing home costs, locations, distances from hospitals and general elderly populations in each county. All html-based interactive graphs can be accessed via the 'html_pages' directory. 
 
 ## Findings 
+The main findings of this analysis related to the differences between public and private homes along with distances from emergency care. 
 
 ### Distances From Hospitals
 - The majority of Irish nursing homes are at 'dangerous' distances from hospital; these distance findings are inspired by research undertaken by [Nicholl et al.](https://doi.org/10.1136%2Femj.2007.047654) regarding mortality rates and distances from hospitals. 
